@@ -1,3 +1,4 @@
 # Demo
 This is my first repository
-Nitya Padh
+<br>
+<h1 bgcolor=lightblue>Nitya Padh </h1>
